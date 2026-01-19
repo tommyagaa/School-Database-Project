@@ -1,3 +1,6 @@
+
+DATABASE PROJECT 
+
 📌 Descrizione del Progetto
 
 Questo progetto consiste in un database per la gestione di una scuola/università, progettato per gestire utenti con ruoli differenti e funzionalità specifiche.
@@ -12,6 +15,8 @@ Segreteria
 Ogni ruolo ha accesso solo alle operazioni di propria competenza, garantendo organizzazione, sicurezza e coerenza dei dati.
 
 👤 Tipologie di Utenti e Funzionalità
+
+
 🎓 Studente
 
 Lo studente può:
